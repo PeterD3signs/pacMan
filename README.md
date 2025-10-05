@@ -23,3 +23,6 @@ Power ups are dropped randomly by ghosts.
 
 High scores are saved in a .txt file and read automatically on game start.
 No Window Builders were used during coding.
+
+What would I change if I were to make this project again:
+- Much like with my other projects from that time, I am very happy with the content itself. One thing I would improve on though is code readability and better file organization.
