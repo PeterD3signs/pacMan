@@ -2,9 +2,9 @@
 A minigame inspired by Pac Man done fully with Java and Java Swing
 
 This project was created in 2023 and contains all /src files in the exact form they were coded during that time.
-It also won't be changed in the future. I decided to keep this repo original to beter show my code progression.
+It also won't be changed in the future. I decided to keep this repo original to better show my code progression.
 
-The project was done as part of a GUI (Graphical User Interface) Java Course during my University studies. I recieved the highest mark possible for this project.
+The project was done as part of a GUI (Graphical User Interface) Java Course during my University studies. I received the highest mark possible for this project.
 
 DESCRIPTION:
 This game is just like regular Pac Man, but with added custom power-ups.
